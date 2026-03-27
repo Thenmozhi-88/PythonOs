@@ -1,0 +1,9 @@
+Lab 6 (Pythondemo1)
+
+Copy files
+    
+    Move files
+    
+    Copy folders
+    
+    Delete folders
