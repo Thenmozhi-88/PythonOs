@@ -1,0 +1,18 @@
+PROGRAM - 7 
+A) Creating a DataFrame from scratch and from a CSV file 
+Example: 
+a) i) Write a Python program that creates a Pandas DataFrame from scratch using 
+a dictionary. Display the DataFrame and then add a new column with 
+calculated values. 
+
+ii) Write a Python program to load a CSV file into a Pandas DataFrame, display 
+the first 6 rows, and show basic information such as column names and data 
+types. 
+
+
+Pandas Basics: 
+B) Program to clean data (handling missing values, duplicates) 
+Example: 
+b) Write a Python program to load a CSV file (Mcd) into a Pandas DataFrame, 
+identify missing values, and fill them with a specific value (e.g., the mean of a 
+column). 

@@ -1,0 +1,7 @@
+PROGRAM - 8 
+Descriptive Statistics: 
+A) Use mean(), median(), mode(), min(), max(), var(), std() from Pandas to measure central 
+tendencies and dispersion of data 
+Example: 
+a) Write a Python program using Pandas to calculate and display central tendencies and 
+dispersion measures for the data from 1experience.csv 
