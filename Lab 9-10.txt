@@ -1,0 +1,15 @@
+Lab 9 and 10
+
+PROGRAM - 9 
+Data Distribution: 
+A) Use describe(), quantile(), skew(), kurt(), value_counts() from Pandas for shape and 
+distribution data 
+Example: 
+a) Analyze the distribution of employee experience using the provided CSV file 
+(1experience.csv). 
+
+10)Categorical Encoding: 
+A) Perform categorical encoding - OneHotEncoder, LabelEncoder from Python 
+Example: 
+a) Write a Python program to perform categorical encoding using 
+OneHotEncoder() and LabelEncoder() for provided dataset of laptops
