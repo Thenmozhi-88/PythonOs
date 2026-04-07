@@ -1,0 +1,5 @@
+Categorical Encoding: 
+A) Perform categorical encoding - OneHotEncoder, LabelEncoder from Python 
+Example: 
+a) Write a Python program to perform categorical encoding using 
+OneHotEncoder() and LabelEncoder() for provided dataset of laptops
