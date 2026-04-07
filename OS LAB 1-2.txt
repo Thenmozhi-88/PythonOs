@@ -1,0 +1,3 @@
+OS LAB -  1 to 2
+1.	Process Creation in Unix Shell: Creating Child Processes and Displaying Parent-Child Relationships Using ps.
+2. Process Control: Create a shell script that demonstrates process control commands like bg, fg, jobs, and kill. Implement a simple background task and manage its execution. 
