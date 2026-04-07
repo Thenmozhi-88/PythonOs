@@ -1,0 +1,7 @@
+PROGRAM - 9 
+Data Distribution: 
+A) Use describe(), quantile(), skew(), kurt(), value_counts() from Pandas for shape and 
+distribution data 
+Example: 
+a) Analyze the distribution of employee experience using the provided CSV file 
+(1experience.csv). 
