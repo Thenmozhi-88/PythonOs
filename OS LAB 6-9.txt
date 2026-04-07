@@ -1,0 +1,7 @@
+OS LAB -  6 to 9 
+
+ 6. Directory Management: Develop a shell script that creates, lists, and deletes directories. Use commands like mkdir, ls, and rmdir, and include user prompts for directory names.
+7. Dynamic Memory Check: Write a shell script that monitors memory usage on the system using commands like free and top. Display the current memory usage and available memory.
+
+8. Environment Variables: Create a shell script that sets, exports, and displays environment variables. Use printenv and env to show the current environment settings.
+9. I/O Redirection in Unix Shell: Manipulating Data Streams with Enhanced File Operations.
