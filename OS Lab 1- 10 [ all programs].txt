@@ -1,0 +1,26 @@
+List of Program (1-10)
+
+1. Process Creation in Unix Shell: Creating Child Processes and Displaying Parent
+Child Relationships Using ps. 
+2. Process Control: Create a shell script that demonstrates process control commands like 
+bg, fg, jobs, and kill. Implement a simple background task and manage its execution. 
+3. Basic Shell Script for Job Scheduling: Develop a shell script that takes a list of 
+commands and executes them with a specified delay using the sleep command. 
+Demonstrate job scheduling in the shell. 
+4. File Operations: Create a shell script that performs file operations, such as creating, 
+copying, moving, and deleting files using commands like touch, cp, mv, and rm. Include 
+error handling to manage file operations gracefully. 
+5. File Permissions: Write a shell script to modify file permissions and ownership 
+using chmod and chown. Include user input for the filename and desired 
+permissions, and display the new file permissions. 
+6. Directory Management: Develop a shell script that creates, lists, and deletes 
+directories. Use commands like mkdir, ls, and rmdir, and include user prompts for 
+directory names. 
+7. Dynamic Memory Check: Write a shell script that monitors memory usage on the 
+system using commands like free and top. Display the current memory usage and 
+available memory. 
+8. Environment Variables: Create a shell script that sets, exports, and displays 
+environment variables. Use printenv and env to show the current environment settings. 
+9  I/O Redirection in Unix Shell: Manipulating Data Streams with Enhanced    
+  File Operations.  
+10 Command Piping in Unix Shell: Exploring Operating System Features.
