@@ -1,0 +1,52 @@
+1. Setup and Environment: 
+A. Installation and configuration of Anaconda (install file in USB pendrive), Python 
+3.12 and Jupyter Notebook 7.1.2 in the local environment 
+B. Getting comfortable with Google Colab environment 
+2. Basic Programming and Syntax: 
+A. Simple calculator 
+B. Temperature converter (Celsius to Fahrenheit and vice versa) 
+C. Program to find the largest of three numbers 
+
+3. Functions and Recursion: 
+A.    Factorial of a number using recursion 
+B.    Word count program 
+4. Data Structures: 
+A. Program to perform various operations on lists (insert, delete, find, etc.) 
+B. Program to merge two dictionaries 
+5. File Handling: 
+A. Program to read a CSV file and perform basic analysis 
+B. Getting awareness about local and Google drive folder and file access, renaming, 
+copying, and moving files 
+6. NumPy Basics: 
+A.    Creating and manipulating NumPy arrays 
+B.    Program to perform matrix operations using NumPy 
+7. Pandas Basics: 
+A.    Creating a DataFrame from scratch and from a CSV file 
+B.    Program to clean data (handling missing values, duplicates) 
+8. Descriptive Statistics: 
+A. Use mean(), median(), mode(), min(), max(), var(), std() from Pandas to measure 
+central tendencies and dispersion of data 
+9. Data Distribution: 
+A. Use describe(), quantile(), skew(), kurt(), value_counts() from Pandas for shape and 
+distribution data 
+10. Categorical Encoding: 
+A.    Perform categorical encoding—OneHotEncoder, LabelEncoder from Python 
+11. Data Scaling: 
+A. Scale the data using Python: StandardScaler(), Normalizer(), and MinMaxScaler() 
+from sklearn.preprocessing 
+12. Outlier Detection: 
+A.    Visualize outliers using box plot from Matplotlib and Seaborn 
+B.    Identify outliers in datasets using Pandas DataFrame and Interquartile Range (IQR) 
+13. Advanced Pandas Operations: 
+A. Advanced Pandas operations, GroupBy, merging, joining, concatenating DataFrames 
+B. Time series analysis of stock prices (Optional case study) 
+14. Advanced Visualization with Seaborn: 
+A.  Using Seaborn to visualize data distributions 
+B.   Creating a pair plot for a DataFrame 
+15. Correlation: 
+A.  Visualize correlation matrix using heatmap from Seaborn to enhance readability 
+16. Identifying Trends and Relationships: 
+A.    Identify the trend of any variable using line chart from Matplotlib and Seaborn 
+B.    Visualize the relationship between two correlated columns using scatter plot 
+17. Category and Numeric Relationships: 
+A. Visualize the relationship between categorical and a numerical column using bar plot 
