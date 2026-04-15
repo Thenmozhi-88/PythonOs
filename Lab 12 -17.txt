@@ -1,0 +1,17 @@
+
+12. Outlier Detection: 
+A.    Visualize outliers using box plot from Matplotlib and Seaborn 
+B.    Identify outliers in datasets using Pandas DataFrame and Interquartile Range (IQR) 
+13. Advanced Pandas Operations: 
+A. Advanced Pandas operations, GroupBy, merging, joining, concatenating DataFrames 
+B. Time series analysis of stock prices (Optional case study) 
+14. Advanced Visualization with Seaborn: 
+A.  Using Seaborn to visualize data distributions 
+B.   Creating a pair plot for a DataFrame 
+15. Correlation: 
+A.  Visualize correlation matrix using heatmap from Seaborn to enhance readability 
+16. Identifying Trends and Relationships: 
+A.    Identify the trend of any variable using line chart from Matplotlib and Seaborn 
+B.    Visualize the relationship between two correlated columns using scatter plot 
+17. Category and Numeric Relationships: 
+A. Visualize the relationship between categorical and a numerical column using bar plot 
